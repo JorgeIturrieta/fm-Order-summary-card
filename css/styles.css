@@ -110,6 +110,7 @@ img {
 }
 
 .change-plan a:hover {
+  text-decoration: none;
   color: hsl(224, 23%, 55%);
 }
 
