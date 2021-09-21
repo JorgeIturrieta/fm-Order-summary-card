@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(/docs/images/pattern-background-desktop.svg);
+  background-image: url(../images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
   background-size: contain;
   background-color: hsl(225, 100%, 94%);
@@ -129,7 +129,7 @@ img {
 
 @media screen and (max-width: 760px) {
   .body {
-    background-image: url(/docs/images/pattern-background-desktop.svg);
+    background-image: url(../images/pattern-background-desktop.svg);
   }
   .card {
     width: 250px;
